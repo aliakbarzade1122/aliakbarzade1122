@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Ali 👋
 
-<!--
-**aliakbarzadegog2-ui/aliakbarzadegog2-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Curious about almost everything.
 
-Here are some ideas to get you started:
+I build, experiment, break things, fix them, and occasionally create something completely unnecessary. :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I do
+
+- 🐧 Linux
+- 🐍 Python
+- 🤖 AI & AI Agents
+- 🎮 Game Development
+- ⚙️ Automation
+- 🧩 Minecraft experiments
+
+### 🚧 Currently exploring
+
+- AI agents & computer use
+- Linux & automation
+- Game development with Godot
+- Turning random ideas into actual projects
+
+### 📌 Projects
+
+I'm always experimenting with something new.
+
+More projects coming soon. 🚀
